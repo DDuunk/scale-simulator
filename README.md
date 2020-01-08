@@ -29,12 +29,7 @@ To use the application simply type `S` into the serial monitor to receive a rand
 ## Format
 
 The format of the returned weight values ​​is as follows, for example:
----
-**NOTE**
-
-The prefix indicates that the value is stable, this ensures a more realistic scale value.
-
----
+*Note: The prefix indicates that the value is stable, this ensures a more realistic scale value.*
 
 ```
 ST,G        239kg
