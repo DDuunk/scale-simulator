@@ -4,7 +4,7 @@ A Arduino-based scale simulator
 
 # Dependencies
 
-* Arduino IDE
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 # Usage
 
