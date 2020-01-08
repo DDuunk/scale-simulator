@@ -20,4 +20,8 @@ To verify your sketch click the verify button in the Arduino IDE.
 
 To upload your sketch click the upload button in the Arduino IDE.
 
-When the sketch is uploaded, open the serial monitor.
+When the sketch is uploaded, open the serial monitor to open the application.
+
+# Application usage
+
+To use the application simply type `S` into the serial monitor to receive a random weight value.
