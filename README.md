@@ -25,3 +25,7 @@ When the sketch is uploaded, open the serial monitor to open the application.
 # Application usage
 
 To use the application simply type `S` into the serial monitor to receive a random weight value.
+
+## Weight value format
+
+`ST,G        *Random value* kg`
