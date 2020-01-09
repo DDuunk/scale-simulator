@@ -1,6 +1,6 @@
 # Scale Simulator
 
-A Arduino-based scale simulator.
+A Arduino-based scale simulator. For the parser to the API see: [Socket Simulator Parser](https://github.com/DDuunk/scale-simulator-parser.git).
 
 # Dependencies
 
