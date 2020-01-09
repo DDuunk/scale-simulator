@@ -1,6 +1,6 @@
 # Scale Simulator
 
-A Arduino-based scale simulator
+A Arduino-based scale simulator.
 
 # Dependencies
 
